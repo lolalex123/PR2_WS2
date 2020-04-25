@@ -21,5 +21,6 @@ public class Circle
 		Circle c = new Circle (0.0, 0.0, 0.5);
 		double d = durchmesser (c.r);
 		System.out.println ("r=" + c.r + ", d=" + d);
+		System.out.println("f=" + c.r*(3.14*3.14));
 	}
 }
