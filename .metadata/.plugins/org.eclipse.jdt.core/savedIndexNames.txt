@@ -1,0 +1,4 @@
+INDEX VERSION 1.130+Z:\Workspaces\WS_PR2_Praktikum\WS_PR2_2019_P02\.metadata\.plugins\org.eclipse.jdt.core
+1716540552.index
+2540341412.index
+938403291.index

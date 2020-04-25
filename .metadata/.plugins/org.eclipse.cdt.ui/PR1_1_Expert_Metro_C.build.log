@@ -1,0 +1,23 @@
+13:55:14 **** Build of configuration Debug for project PR1_1_Expert_Metro_C ****
+make all 
+Building file: ../Metropolitan.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"Metropolitan.d" -MT"Metropolitan.o" -o "Metropolitan.o" "../Metropolitan.c"
+../Metropolitan.c:18:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
+void main() /* Sherlock Holmes */
+^
+../Metropolitan.c:18:1: note: change return type to 'int'
+void main() /* Sherlock Holmes */
+^~~~
+int
+1 warning generated.
+Finished building: ../Metropolitan.c
+ 
+Building target: PR1_1_Expert_Metro_C
+Invoking: MacOS X C Linker
+gcc  -o "PR1_1_Expert_Metro_C"  ./Metropolitan.o   
+Finished building target: PR1_1_Expert_Metro_C
+ 
+
+13:55:15 Build Finished (took 549ms)
+

@@ -1,0 +1,10 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=macosx
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Mondrian2FX,org.eclipse.launchbar.core.descriptorType.default\:PR2_1_1_Expert_Metro_C.exe,org.eclipse.launchbar.core.descriptorType.default\:CircleApplet,org.eclipse.launchbar.core.descriptorType.default\:PR2_1_1_Expert_Metro_C,org.eclipse.launchbar.core.descriptorType.default\:Metropolitan,org.eclipse.launchbar.core.descriptorType.default\:Mondrian2,org.eclipse.launchbar.core.descriptorType.default\:MetropolitanApp,org.eclipse.launchbar.core.descriptorType.default\:CircleView,org.eclipse.launchbar.core.descriptorType.default\:Circle (1),org.eclipse.launchbar.core.descriptorType.default\:Circle
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:CircleApplet/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:CircleApplet/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Metropolitan/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Metropolitan/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:MetropolitanApp/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:MetropolitanApp/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
